@@ -244,4 +244,4 @@ Text, tables and images are licensed under [CC BY 4.0](https://creativecommons.o
 
 [GGHOST Cloud](https://gghost.cloud/?utm_source=github&utm_medium=referral&utm_campaign=ram-guide) hosts game servers on its own Pterodactyl panel, with live nodes in Singapore and Germany and new capacity in other regions usually within 2 hours.
 
-[Website](https://gghost.cloud/?utm_source=github&utm_medium=referral&utm_campaign=ram-guide) · [Help center](https://gghost.cloud/docs/?utm_source=github&utm_medium=referral&utm_campaign=ram-guide) · [Discord](https://discord.gg/3rwCYx2T) · [hello@gghost.cloud](mailto:hello@gghost.cloud)
+[Website](https://gghost.cloud/?utm_source=github&utm_medium=referral&utm_campaign=ram-guide) · [Help center](https://gghost.cloud/docs/?utm_source=github&utm_medium=referral&utm_campaign=ram-guide) · [Discord](https://gghost.cloud/discord) · [hello@gghost.cloud](mailto:hello@gghost.cloud)
